@@ -1,0 +1,2 @@
+# FG 25.02.15 | Ignore all SQLite databases
+db/*.sqlite3
